@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "146336418305",
+    "project_id": "crudeops-6c204",
+    "storage_bucket": "crudeops-6c204.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146336418305:android:98d773f24ecc041df08e00",
+        "android_client_info": {
+          "package_name": "com.example.crude_ops_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATeMuqkWlitN3mNjhf-vYmJ3BXq8NPgxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
